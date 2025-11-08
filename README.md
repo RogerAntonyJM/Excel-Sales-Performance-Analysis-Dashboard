@@ -99,7 +99,7 @@ The interactive dashboard provides valuable business intelligence that can help 
 
 ---
 
-## 👨‍💻 Author
+
 **Roger Antony JM**  
 📊 Data Analyst | Excel & Visualization Enthusiast  
 📧 rogerantonyjm@gmail.com  
@@ -107,4 +107,3 @@ The interactive dashboard provides valuable business intelligence that can help 
 
 ---
 
-### ⭐ Don’t forget to star this repository if you found it insightful!

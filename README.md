@@ -1,5 +1,10 @@
 # 🛍️ Product Sales Data Analytics Dashboard
+---
 
+## 🖼️ Dashboard Preview
+![Sales Excel Dashboard](Sales%20Excel%20Dashboard.png)
+
+---
 ## 📊 Project Overview
 This project, created by **Roger Antony JM**, presents a comprehensive analysis of product sales data using **Microsoft Excel**.  
 It features an interactive dashboard that highlights key performance indicators (KPIs), sales trends, and customer insights.  
@@ -53,11 +58,6 @@ This dashboard offers a clear and visual understanding of sales and customer beh
 3. **Popular Products by Gender:** Highlights which products are most loved by male and female customers.  
 4. **Customer Ratings:** Displays distribution of 1–5 star ratings month by month.  
 5. **Delivery Analysis:** Visualizes how quickly orders are being delivered.  
-
----
-
-## 🖼️ Dashboard Preview
-![Sales Excel Dashboard](Sales%20Excel%20Dashboard.png)
 
 ---
 

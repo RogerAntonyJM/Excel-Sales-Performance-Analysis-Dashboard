@@ -5,6 +5,14 @@
 ![Sales Excel Dashboard](Sales%20Excel%20Dashboard.png)
 
 ---
+
+## 🎬 Dashboard Demo Video
+
+[![Watch the Dashboard Video](https://img.youtube.com/vi/QsD1v7nh_UU/0.jpg)](https://youtu.be/QsD1v7nh_UU)
+> Click the image above to watch the full video demonstration on YouTube.
+
+---
+
 ## 📊 Project Overview
 This project, created by **Roger Antony JM**, presents a comprehensive analysis of product sales data using **Microsoft Excel**.  
 It features an interactive dashboard that highlights key performance indicators (KPIs), sales trends, and customer insights.  
